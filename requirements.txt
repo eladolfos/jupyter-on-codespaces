@@ -5,6 +5,5 @@ torch==2.3.0
 torchvision==0.18.0
 tqdm==4.66.4
 root_base==6.32.2
-scikit-learn==1.5.1
 uproot==5.3.10
 uproot3==3.14.4
